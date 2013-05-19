@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Details>
+    <SectorList>
+        <jal1>
+            <sector>01</sector>
+            <sector>02</sector>
+            <sector>03</sector>
+            <sector>04</sector>
+            <sector>05</sector>
+            <sector>06</sector>
+           
+        </jal1>
+        <jal2>
+            <sector>21</sector>
+            <sector>21A</sector>
+            <sector>25</sector>
+            <sector>26</sector>
+            <sector>28</sector>
+            <sector>29</sector>
+            
+        </jal2>
+        <jal3>
+            <sector>39</sector>
+            <sector>40</sector>
+            <sector>41</sector>
+            <sector>42</sector>
+            <sector>43</sector>
+           
+        </jal3>
+   </SectorList>
+   <Repository>
+       <path>
+        /media/Data/JAL
+       </path>
+   </Repository>
+   <DBConnection>
+       <dburl>
+        jdbc:oracle:thin:@192.168.1.200:1521:JAL
+       </dburl>
+       <dbuser>
+        jalop
+       </dbuser>
+       <dbpassword>
+        jal123
+       </dbpassword>
+   </DBConnection>
+</Details>

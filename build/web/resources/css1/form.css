@@ -1,0 +1,147 @@
+/*
+----------------------------------------
+	Form Styles
+----------------------------------------
+*/
+
+/*
+	Global
+	------
+*/
+
+fieldset { float: left; border: none; }
+fieldset ul { list-style: none; }
+
+input { font-size: 13px; }
+button { color: white; }
+label { font-weight: bold;}
+label.s { font-weight: bold;margin-left: 20px;margin-right: 20px;}
+
+.inputbox { margin: 30px 0; }
+span.required { color: #cc0000; }
+p.required { float: right; color: #cc0000; text-align: right; font-size: .95em; }
+
+/*
+Cancel button
+*/
+button.cancel{float:right;
+height: 30px;
+	border: none;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	text-shadow: -1px -1px 1px #0c3976;
+	cursor: pointer;
+	background: none;}
+
+button.cancel { float: right; height: 30px; margin: -58px 700px;}
+button.cancel.c { float: right; height: 30px; margin: -32px 700px;}
+
+button.cancel .leftcorners { float: right; height: 30px; background: url("../../resources/images/form/submit/leftcorners.png") left top no-repeat; }
+button.cancel .rightcorners { float: right; height: 30px; background: url("../../resources/images/form/submit/rightcorners.png") right top no-repeat; }
+button.cancel .bg {
+	float: right;
+	height: 18px;
+	background: url("../../resources/images/form/submit/bg.png") left top repeat-x;
+	margin: 0 10px 0 10px;
+	padding: 6px 10px 6px 10px;
+}
+button.cancel:hover .leftcorners { background: url("../../resources/images/form/submit/leftcorners.png") left -30px no-repeat; }
+button.cancel:hover .rightcorners { background: url("../../resources/images/form/submit/rightcorners.png") right -30px no-repeat; }
+button.cancel:hover .bg { background: url("../../resources/images/form/submit/bg.png") left -30px repeat-x; }
+
+
+/*
+	Submit Button
+	-------------
+*/
+
+button.submit {
+	float: left;
+	height: 30px;
+	border: none;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	text-shadow: -1px -1px 1px #0c3976;
+	cursor: pointer;
+	background: none;
+}
+
+button.submit { float: left; height: 30px; margin: 5px 0px; }
+button.submit.a { float: left; height: 30px; margin: 28px 20px; }
+button.submit.up { float: left; height: 30px; width:100%; margin: -80px 820px; }
+button.submit.ups { float: left; height: 30px; width:100%; margin: -60px 685px; }
+button.submit.upr { float: left; height: 30px; width:100%; margin: -60px 570px; }
+button.submit.upr1 { float: left; height: 30px; width:100%; margin: -60px 420px; }
+
+button.submit .leftcorners { float: left; height: 30px; background: url("../../resources/images/form/submit/leftcorners.png") left top no-repeat; }
+button.submit .rightcorners { float: left; height: 30px; background: url("../../resources/images/form/submit/rightcorners.png") right top no-repeat; }
+button.submit .bg {
+	float: left;
+	height: 18px;
+	background: url("../../resources/images/form/submit/bg.png") left top repeat-x;
+	margin: 0 10px 0 10px;
+	padding: 6px 10px 6px 10px;
+}
+button.submit:hover .leftcorners { background: url("../../resources/images/form/submit/leftcorners.png") left -30px no-repeat; }
+button.submit:hover .rightcorners { background: url("../../resources/images/form/submit/rightcorners.png") right -30px no-repeat; }
+button.submit:hover .bg { background: url("../../resources/images/form/submit/bg.png") left -30px repeat-x; }
+
+/*
+	Notes - Error, OK
+	-----------------
+*/
+
+#note { float: left; margin-top: 30px; width: 620px; }
+#note .notification-error { padding: 15px; border: 1px solid #cc0000; color: #cc0000; }
+#note .notification-ok { padding: 15px; border: 1px solid #50be00; color: #50be00; }
+
+
+/*
+	admin Form
+	------------
+*/
+
+#adminform { float: left; width: 940px; margin-top: 0px; }
+#adminform input { width: 210px; padding: 3px; margin-right: 10px;}
+#adminform textarea { width: 570px; height: 200px; padding: 5px; }
+#adminform select{width: 230px; padding: 3px; margin-right: 10px;}
+
+
+/*
+	view Form
+	------------
+*/
+
+#viewform { float: left; width: 940px; margin-top: 0px; }
+#viewform input { width: 140px; padding: 3px; margin-right: 10px;}
+#viewform textarea { width: 570px; height: 200px; padding: 5px; }
+#viewform select{width: 150px; padding: 3px; margin-right: 10px;}
+
+
+/*
+	Contactus Form
+	------------
+*/
+
+#contactusform { float: left; width: 580px; margin-top: 20px; }
+#contactusform input { width: 210px; padding: 3px; }
+#contactusform textarea { width: 570px; height: 200px; padding: 3px; }
+
+
+
+
+/*
+	User Form
+	------------
+*/
+
+#userform { float: left; width: 940px; margin-top: 0px; }
+#userform input { width: 210px; padding: 3px;float:right;}
+#userform textarea { width: 570px; height: 300px; padding: 5px; }
+#userform select{width: 220px; padding: 3px;float:right;}
+
+
+
+

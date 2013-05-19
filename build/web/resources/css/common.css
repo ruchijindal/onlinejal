@@ -1,0 +1,62 @@
+/* 
+----------------------------------------
+	Common Styles
+----------------------------------------
+*/
+
+* { margin: 0; padding: 0; }
+
+/* 
+	Body
+*/
+
+body { background: #f0f0f0; color: #505a6e; font: 12px/1.55em "Arial", Helvetica, sans-serif; text-align: center; }
+
+/* 
+	Elements
+*/
+
+.inside { float: left; width: 100%; }
+.container { width: 940px; margin: 0 auto; text-align: left; }
+
+/* 
+	Links 
+*/
+
+a { color: #1e64c8; text-decoration: none; }
+a:hover { color: #505a6e; text-decoration: underline; }
+a img { border: 0;}
+a:focus { outline: 0; }
+
+/* 
+	Headings 
+*/
+
+h1, h2, h3, h4, h5 {  }
+h1 { font-size: 2.5em; color: #505a6e; margin-bottom: 20px; }
+h2 { font-size: 2.2em;  color: #505a6e; margin-bottom: 20px;  }
+h3 { font-size: 1.2em; color: #1e64c8; margin: 30px 0; }
+h4 { font-size: 1.2em; color: #505a6e; font-weight: normal; margin-bottom: 10px; }
+h5 { font-size: 1em; }
+
+/* 
+	Clears
+*/
+
+.clear { clear: both; height: 0px; visibility: hidden; }
+
+/* 
+	Floatings
+*/
+
+.left { float: left;}
+.right { float: right; }
+
+/* 
+	Paragraph
+*/
+
+p { line-height: 150%; }
+p.featured { font-size: 1.4em; color: #1e64c8; }
+
+

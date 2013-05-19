@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet
+END
+ViewConsumerDetReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/ViewConsumerDetReport.java
+END
+ViewRevenueReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/ViewRevenueReport.java
+END
+CancelBillReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/CancelBillReport.java
+END
+RevenueReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/RevenueReport.java
+END
+RedirectToCP.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/RedirectToCP.java
+END
+ArrearReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/ArrearReport.java
+END
+ConsumerDet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/ConsumerDet.java
+END
+CancelRevenueReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/CancelRevenueReport.java
+END
+ParseXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/ParseXml.java
+END
+BillReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/BillReport.java
+END
+CancelArrearReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/CancelArrearReport.java
+END
+CancelConsumerDet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/noida/!svn/ver/8/OnlineJal/src/java/reportservlet/CancelConsumerDet.java
+END

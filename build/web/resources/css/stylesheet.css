@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+
+/* Main container */	
+
+#main_content {
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+/*--Image Slider--*/
+.main_view {
+	float: left;
+	position: relative;
+}
+/*--Window/Masking Styles--*/
+.window {
+	height:286px;	width: 960px;
+	overflow: hidden; /*--Hides anything outside of the set width/height--*/
+	position: relative;
+}
+.image_reel {
+	position: absolute;
+	top: 0; left: 0;
+	z-index:100;
+}
+.image_reel img {float: left;}
+
+/*--Paging Styles--*/
+.paging {
+	overflow: hidden;
+	position:relative;
+	top:-10px;
+	width: 958px; height:57px;
+	line-height: 65px;
+	background-image: -moz-linear-gradient(100% 100% 90deg, #eeeeee, #ffffff);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(#eeeeee));
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #3AD2F9;
+	/*background: url("../images/paging_bg2.png") no-repeat;*/
+	display: none; /*--Hidden by default, will be later shown with jQuery--*/
+}
+.paging a {
+	color: #17BDE7;
+	padding: 5px;
+	margin-left:10px;
+	text-decoration: none;
+}
+.paging a.active {
+
+	background: #17BDE7;
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #128faf;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	
+	-moz-box-shadow: inset 1px 1px 2px #128faf;
+	-khtml-box-shadow: inset 0px 0px 2px #128faf;
+	-webkit-box-shadow: -1px -1px 2px #128faf; 
+	box-shadow: inset 0px 0px 2px #128faf;
+	
+}
+.paging a:hover {
+	text-shadow: 1px 1px 1px #128faf;
+	background: #17BDE7;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: inset 1px 1px 2px #128faf;
+	-khtml-box-shadow: inset 0px 0px 2px #128faf;
+	-webkit-box-shadow: -1px -1px 2px #128faf; 
+	box-shadow: inset 0px 0px 2px #128faf;
+	color: #ffffff;
+
+
+}
+
+
+/*           Main Content   */

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/noida/!svn/ver/25/OnlineJal/src/java/bill/generator
+END
+BillCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/BillCalculation.java
+END
+FindBillCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/FindBillCycle.java
+END
+FindRebate.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/FindRebate.java
+END
+BillUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/BillUtility.java
+END
+ChallanDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/ChallanDetails.java
+END
+CessRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/noida/!svn/ver/25/OnlineJal/src/java/bill/generator/CessRate.java
+END
+BillingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/noida/!svn/ver/25/OnlineJal/src/java/bill/generator/BillingManager.java
+END
+ConsumerDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/ConsumerDetail.java
+END
+Rates.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/noida/!svn/ver/25/OnlineJal/src/java/bill/generator/Rates.java
+END
+LedgerCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/LedgerCalculation.java
+END
+BillCalculation1.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/BillCalculation1.java
+END
+GeneratePdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/GeneratePdf.java
+END
+BillDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/BillDescription.java
+END
+FindRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/FindRate.java
+END
+InterestRates.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/noida/!svn/ver/25/OnlineJal/src/java/bill/generator/InterestRates.java
+END
+GenerateBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/GenerateBill.java
+END
+FindCalDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/FindCalDate.java
+END
+FindCess.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/noida/!svn/ver/8/OnlineJal/src/java/bill/generator/FindCess.java
+END

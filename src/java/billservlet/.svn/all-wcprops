@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet
+END
+consumerBillDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/consumerBillDetail.java
+END
+CalBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/CalBill.java
+END
+CancelCrdt.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/CancelCrdt.java
+END
+GetLedger.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/GetLedger.java
+END
+LedgerExcel.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/LedgerExcel.java
+END
+CancelDeflt.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/CancelDeflt.java
+END
+CreditorGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/CreditorGen.java
+END
+DefaulterGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/DefaulterGen.java
+END
+Err.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/Err.java
+END
+ExcelGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/ExcelGen.java
+END
+LedgerPdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/noida/!svn/ver/8/OnlineJal/src/java/billservlet/LedgerPdf.java
+END
